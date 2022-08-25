@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MarvelGitPages/static/css/main.5ffc25c3.css",
+    "main.js": "/MarvelGitPages/static/js/main.224583ef.js",
+    "static/media/RobotoCondensed-Regular.ttf": "/MarvelGitPages/static/media/RobotoCondensed-Regular.fc3d2f2e3a203d0037c1.ttf",
+    "static/media/RobotoCondensed-Bold.ttf": "/MarvelGitPages/static/media/RobotoCondensed-Bold.c5fe6deebafaec078e64.ttf",
+    "static/media/vision.png": "/MarvelGitPages/static/media/vision.b3b17df88e49d6a3eb77.png",
+    "static/media/shield-mjolnir.png": "/MarvelGitPages/static/media/shield-mjolnir.9043c3b608905b72e1b2.png",
+    "index.html": "/MarvelGitPages/index.html",
+    "main.5ffc25c3.css.map": "/MarvelGitPages/static/css/main.5ffc25c3.css.map",
+    "main.224583ef.js.map": "/MarvelGitPages/static/js/main.224583ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ffc25c3.css",
+    "static/js/main.224583ef.js"
+  ]
+}
